@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science , Python**
 
-- 💬 Ask me about **Python Dev**
+- 💬 Ask me about **Python Devolper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
