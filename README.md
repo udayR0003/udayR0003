@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Uday Pratap Singh Rathore</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I had worked [Personal Resume Website](https://github.com/udayR0003/resume-personal-blogging)
+
+- 🌱 I’m currently learning **Data Science , Python**
+
+- 💬 Ask me about **Python Dev**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-pratap-singh-rathore-b082542b9/) 
